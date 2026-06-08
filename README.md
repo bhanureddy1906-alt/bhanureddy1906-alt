@@ -1,58 +1,151 @@
-# 💫 Hi 👋, I'm Bhanuprasd P
-**A passionate Cloud Engineer || DevOps Engineer || **
+<div align="center">
 
-🎓 Fresh Computer Science & IT Graduate | Building my path in the Cloud & DevOps space!
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bhanuprasad%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20DevOps%20Engineer%20%7C%20CS%20Graduate%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
-📫 Email Me 👉 ✉️ **bhanureddy1906@gmail.com** for Collaboration, Projects, or anything Tech! 😊
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=☁️+Building+Cloud+%26+DevOps+Infrastructure;🚀+AWS+%7C+Kubernetes+%7C+Terraform+%7C+Kafka;🎓+CS+Graduate+%7C+Open+Source+Enthusiast;🛠️+Automate+Everything%2C+Break+Nothing)](https://git.io/typing-svg)
+
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="mailto:bhanureddy1906@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
+  </a>
+  <a href="https://linkedin.com/in/bhanuprasadp">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
+  </a>
+  <a href="https://github.com/bhanureddy1906-alt">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0d0d"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bhanureddy1906-alt&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&abbreviated=true"/>
+</p>
+
+</div>
 
 ---
 
-- 🔭 **I'm currently working on:** Sharpening my Cloud & DevOps skills post-graduation
-- 🌱 **I'm currently learning:** AWS Cloud certifications (Solutions Architect / Cloud Practitioner)
-- 👯 **I'm looking to collaborate on:** Open Source DevOps tools & automation projects
-- 🤔 **I'm looking for help with:** Contributions to impactful Cloud & Infrastructure projects
-- 💬 **Ask me about:** Cloud Engineering, DevOps, Apache Kafka, CI/CD & Tech in general
-- 📫 **How to reach me:** bhanureddy1906@gmail.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** Just got my CS degree — and I already can't stop tinkering with the cloud ☁️
+## 🧑‍💻 `whoami`
+
+```yaml
+╔══════════════════════════════════════════════════════════╗
+  Name        : Bhanuprasad P
+  Location    : India 🇮🇳
+  Education   : B.E. Computer Science & IT — 2025 🎓
+  Role        : Cloud Engineer | DevOps Engineer
+  Currently   : Preparing for AWS Solutions Architect Cert
+  Goal        : Build scalable, automated cloud infrastructure
+  Collaborate : Open Source DevOps tools & automation
+  Contact     : bhanureddy1906@gmail.com
+  Pronouns    : He / Him
+  Fun Fact    : Got my CS degree — still can't stop tinkering ☁️
+╚══════════════════════════════════════════════════════════╝
+```
 
 ---
 
-### 🚀 What I'm focused on right now:
-- ☁️ Preparing for **AWS Cloud Certifications**
-- 🛠️ Contributing to **Open Source DevOps** projects
-- 📡 Deepening expertise in **Apache Kafka & Event Streaming**
-- 🔧 Exploring **Infrastructure as Code** with Terraform & Ansible
+## 🚀 Current Focus
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
 
+**☁️ Cloud & Certifications**
+- 📌 Preparing for **AWS Solutions Architect**
+- 📌 Exploring **Azure DevOps pipelines**
+- 📌 Practicing **cloud cost optimization**
 
-## 🌐 Socials:
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhanureddy1906@gmail.com) 
+    </td>
+    <td width="50%">
 
+**🛠️ Building & Contributing**
+- 📌 Contributing to **Open Source DevOps tools**
+- 📌 Building with **Terraform & Ansible IaC**
+- 📌 Containerizing apps with **Docker + K8s**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
- <!-- Snake Game Repo View -->
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+#### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux,bash,github,githubactions&theme=dark&perline=9"/>
+
+#### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark&perline=9"/>
+
+#### 🗄️ Databases & Data
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=9"/>
+
+#### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,vscode,idea,maven,kafka&theme=dark&perline=9"/>
+
 </div>
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=bhanureddy1906-alt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=bhanureddy1906-alt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhanureddy1906-alt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhanureddy1906-alt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📈 Contribution Graph
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhanureddy1906-alt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhanureddy1906-alt&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=302b63"/>
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=bhanureddy1906-alt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=bhanureddy1906-alt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+</div>
+
+---
+
+## 🎯 Certifications & Learning Path
+🟣 [IN PROGRESS]  AWS Certified Solutions Architect – Associate
+⬜ [PLANNED]      AWS Certified DevOps Engineer – Professional
+⬜ [PLANNED]      Certified Kubernetes Administrator (CKA)
+⬜ [PLANNED]      HashiCorp Certified: Terraform Associate
+⬜ [PLANNED]      Azure Fundamentals (AZ-900)
+---
+
+ <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
+
+## ✍️ Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%"/>
+</div>
+
+---
+
+## 🔝 Top Contributions
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=bhanureddy1906-alt&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+
+*"Infrastructure as code. Automation as culture. Cloud as a mindset."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
